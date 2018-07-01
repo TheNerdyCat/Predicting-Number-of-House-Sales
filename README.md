@@ -1,2 +1,3 @@
 # Predict-Number-of-House-Sales
-Predicting the number of house sales in England and Wales
+
+In this project I attempt to predict the number of residential transactions in England and Wales, using a random forest regressor and a K-Nearest Neighbour regressor.
